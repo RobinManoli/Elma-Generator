@@ -13,3 +13,5 @@ analyze lev file
 ## resize.py
 resize/mirror level
 
+## dist
+old .exe release
