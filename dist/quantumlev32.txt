@@ -1,0 +1,5 @@
+GENERATOR
+The left side is just used for generating levels. Save them in your level folder. A good tip is to create a link to your level folder in the default folder that the program opens.
+
+QUANTIZE TUTORIAL
+The right side is there to create a texture in your already created levels. You can start out with steps 200 and disturbance 0.05. In level warmup this creates the texture kind of like dried paper. Have a lower disturbance and the level will be smoother. If you have fewer steps there will be fewer bumps.
