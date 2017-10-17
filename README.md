@@ -1,4 +1,4 @@
-# Automatically generate polygon based levels for the computer game Elasto Mania.
+Automatically generate polygon based levels for the computer game Elasto Mania.
 
 ## tk_quantumlev.py
 super modern level generator
